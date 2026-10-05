@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="YOUR-LINKEDIN-URL">
+  <a href="https://www.linkedin.com/in/shivani-kumari-a6184135b">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="YOUR-PORTFOLIO-URL">
