@@ -5,14 +5,15 @@
 <h1 align="center">Learning, Creating & Growing with Technology</h1>
 
 <p align="center">
-  <strong>Shivani Kumari</strong> · Computer Science Student · Social Media Marketing Intern @ Mooncee · Exploring Python, SQL, AI & Creative Technology from India.
+  <strong>Shivani Kumari</strong> · Diploma in Computer Engineering student at Meerabai DSEU · Social Media Intern @ Mooncee · Exploring Python, SQL, AI & Creative Technology from India.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shivani-kumari-a6184135b">
+  <a href="https://www.linkedin.com/in/shivani-kumari-ai/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="YOUR-PORTFOLIO-URL">
+  <!-- TODO: replace with the real Vercel URL after deploy -->
+  <a href="https://shivani-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
@@ -21,9 +22,9 @@
 
 ## 👋 About Me
 
-I’m a **Computer Science student at DSEU** with an interest in technology, digital creativity, and practical problem-solving.
+I’m a **third-year Diploma in Computer Engineering student at Meerabai DSEU** with an interest in technology, digital creativity, and practical problem-solving.
 
-Alongside my studies, I’m gaining professional experience as a **Social Media Marketing Intern at Mooncee**, working with content, communication, and digital presence.
+Alongside my studies, I’m gaining professional experience as a **Social Media Intern at Mooncee**, working with content, communication, and digital presence.
 
 I’m building my technical foundation in **Python, SQL, Git & GitHub, Artificial Intelligence, and Machine Learning**, while exploring how technology and creativity can work together to build useful solutions.
 
@@ -79,9 +80,9 @@ I’m building my technical foundation in **Python, SQL, Git & GitHub, Artificia
 
 | Project | Description | Focus |
 | --- | --- | --- |
-| **Python Projects** | Practical Python programs created while strengthening programming fundamentals. | Python |
-| **SQL Projects** | Database and query-based projects for learning SQL and data handling. | SQL · DBMS |
-| **Creative Work** | Social media, content, communication, and photography work from academic and professional experience. | Marketing · Creativity |
+| **Emora** | An emotion reflection app: you describe how you feel and it interprets your likely mood. Not a medical diagnosis. | Coming soon to GitHub |
+| **Student Management System** | Organise student information and records in one place. | Coming soon to GitHub |
+| **Student Expense Tracker** | Record and review personal spending. | Coming soon to GitHub |
 
 > More projects will be added as I continue learning and building.
 
