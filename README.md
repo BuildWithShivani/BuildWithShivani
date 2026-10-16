@@ -12,8 +12,7 @@
   <a href="https://www.linkedin.com/in/shivani-kumari-ai/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <!-- TODO: replace with the real Vercel URL after deploy -->
-  <a href="https://shivani-portfolio.vercel.app">
+  <a href="https://portfolio-shivani-50e1.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
